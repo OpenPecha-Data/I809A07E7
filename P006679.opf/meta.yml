@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W5JW9
   title: མི
   author: ''
-  volumes: {}
+  volumes:
+    1048e3dbaf254da6af2138bab7a49133:
+      image_group_id: I1KG15563
+      title: ''
+      volume_number: 1
+      total_pages: 56
